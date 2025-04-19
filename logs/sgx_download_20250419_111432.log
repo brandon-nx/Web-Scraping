@@ -1,0 +1,40 @@
+2025-04-19 11:14:32,371 [INFO] 
+===== Processing date: 20240401 =====
+2025-04-19 11:14:32,371 [INFO] Downloading: WEBPXTICK_DT-20240401.zip
+2025-04-19 11:14:32,573 [INFO] Saved to sgx_data\WEBPXTICK_DT-20240401.zip
+2025-04-19 11:14:32,573 [INFO] Downloading: TC_20240401.txt
+2025-04-19 11:14:33,023 [INFO] Saved to sgx_data\TC_20240401.txt
+2025-04-19 11:14:33,025 [INFO] Skipping TickData_structure.dat (already downloaded)
+2025-04-19 11:14:33,025 [INFO] Skipping TC_structure.dat (already downloaded)
+2025-04-19 11:14:33,028 [INFO] 
+===== Processing date: 20240402 =====
+2025-04-19 11:14:33,028 [INFO] Downloading: WEBPXTICK_DT-20240402.zip
+2025-04-19 11:14:33,201 [INFO] Saved to sgx_data\WEBPXTICK_DT-20240402.zip
+2025-04-19 11:14:33,203 [INFO] Downloading: TC_20240402.txt
+2025-04-19 11:14:33,628 [INFO] Saved to sgx_data\TC_20240402.txt
+2025-04-19 11:14:33,636 [INFO] Skipping TickData_structure.dat (already downloaded)
+2025-04-19 11:14:33,637 [INFO] Skipping TC_structure.dat (already downloaded)
+2025-04-19 11:14:33,637 [INFO] 
+===== Processing date: 20240403 =====
+2025-04-19 11:14:33,637 [INFO] Downloading: WEBPXTICK_DT-20240403.zip
+2025-04-19 11:14:34,162 [INFO] Saved to sgx_data\WEBPXTICK_DT-20240403.zip
+2025-04-19 11:14:34,165 [INFO] Downloading: TC_20240403.txt
+2025-04-19 11:14:35,063 [INFO] Saved to sgx_data\TC_20240403.txt
+2025-04-19 11:14:35,070 [INFO] Skipping TickData_structure.dat (already downloaded)
+2025-04-19 11:14:35,070 [INFO] Skipping TC_structure.dat (already downloaded)
+2025-04-19 11:14:35,070 [INFO] 
+===== Processing date: 20240404 =====
+2025-04-19 11:14:35,070 [INFO] Downloading: WEBPXTICK_DT-20240404.zip
+2025-04-19 11:14:35,268 [INFO] Saved to sgx_data\WEBPXTICK_DT-20240404.zip
+2025-04-19 11:14:35,274 [INFO] Downloading: TC_20240404.txt
+2025-04-19 11:14:35,673 [INFO] Saved to sgx_data\TC_20240404.txt
+2025-04-19 11:14:35,678 [INFO] Skipping TickData_structure.dat (already downloaded)
+2025-04-19 11:14:35,678 [INFO] Skipping TC_structure.dat (already downloaded)
+2025-04-19 11:14:35,680 [INFO] 
+===== Processing date: 20240405 =====
+2025-04-19 11:14:35,681 [INFO] Downloading: WEBPXTICK_DT-20240405.zip
+2025-04-19 11:14:35,883 [INFO] Saved to sgx_data\WEBPXTICK_DT-20240405.zip
+2025-04-19 11:14:35,883 [INFO] Downloading: TC_20240405.txt
+2025-04-19 11:14:36,265 [INFO] Saved to sgx_data\TC_20240405.txt
+2025-04-19 11:14:36,266 [INFO] Skipping TickData_structure.dat (already downloaded)
+2025-04-19 11:14:36,266 [INFO] Skipping TC_structure.dat (already downloaded)

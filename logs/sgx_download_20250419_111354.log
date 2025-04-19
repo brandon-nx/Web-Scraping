@@ -1,0 +1,50 @@
+2025-04-19 11:13:54,433 [INFO] 
+===== Processing date: 20240401 =====
+2025-04-19 11:13:54,433 [INFO] Downloading: WEBPXTICK_DT-20240401.zip
+2025-04-19 11:13:54,595 [INFO] Saved to data/archive\WEBPXTICK_DT-20240401.zip
+2025-04-19 11:13:54,597 [INFO] Downloading: TC_20240401.txt
+2025-04-19 11:13:54,808 [INFO] Saved to data/archive\TC_20240401.txt
+2025-04-19 11:13:54,808 [INFO] Downloading: TickData_structure.dat
+2025-04-19 11:13:55,021 [INFO] Saved to data/archive\TickData_structure.dat
+2025-04-19 11:13:55,024 [INFO] Downloading: TC_structure.dat
+2025-04-19 11:13:55,159 [INFO] Saved to data/archive\TC_structure.dat
+2025-04-19 11:13:55,165 [INFO] 
+===== Processing date: 20240402 =====
+2025-04-19 11:13:55,165 [INFO] Downloading: WEBPXTICK_DT-20240402.zip
+2025-04-19 11:13:55,353 [INFO] Saved to data/archive\WEBPXTICK_DT-20240402.zip
+2025-04-19 11:13:55,354 [INFO] Downloading: TC_20240402.txt
+2025-04-19 11:13:55,584 [INFO] Saved to data/archive\TC_20240402.txt
+2025-04-19 11:13:55,585 [INFO] Downloading: TickData_structure.dat
+2025-04-19 11:13:55,906 [INFO] Saved to data/archive\TickData_structure.dat
+2025-04-19 11:13:55,906 [INFO] Downloading: TC_structure.dat
+2025-04-19 11:13:56,135 [INFO] Saved to data/archive\TC_structure.dat
+2025-04-19 11:13:56,136 [INFO] 
+===== Processing date: 20240403 =====
+2025-04-19 11:13:56,136 [INFO] Downloading: WEBPXTICK_DT-20240403.zip
+2025-04-19 11:13:56,299 [INFO] Saved to data/archive\WEBPXTICK_DT-20240403.zip
+2025-04-19 11:13:56,303 [INFO] Downloading: TC_20240403.txt
+2025-04-19 11:13:56,476 [INFO] Saved to data/archive\TC_20240403.txt
+2025-04-19 11:13:56,476 [INFO] Downloading: TickData_structure.dat
+2025-04-19 11:13:56,693 [INFO] Saved to data/archive\TickData_structure.dat
+2025-04-19 11:13:56,695 [INFO] Downloading: TC_structure.dat
+2025-04-19 11:13:56,849 [INFO] Saved to data/archive\TC_structure.dat
+2025-04-19 11:13:56,852 [INFO] 
+===== Processing date: 20240404 =====
+2025-04-19 11:13:56,853 [INFO] Downloading: WEBPXTICK_DT-20240404.zip
+2025-04-19 11:13:57,110 [INFO] Saved to data/archive\WEBPXTICK_DT-20240404.zip
+2025-04-19 11:13:57,116 [INFO] Downloading: TC_20240404.txt
+2025-04-19 11:13:57,418 [INFO] Saved to data/archive\TC_20240404.txt
+2025-04-19 11:13:57,420 [INFO] Downloading: TickData_structure.dat
+2025-04-19 11:13:57,556 [INFO] Saved to data/archive\TickData_structure.dat
+2025-04-19 11:13:57,556 [INFO] Downloading: TC_structure.dat
+2025-04-19 11:13:57,820 [INFO] Saved to data/archive\TC_structure.dat
+2025-04-19 11:13:57,821 [INFO] 
+===== Processing date: 20240405 =====
+2025-04-19 11:13:57,821 [INFO] Downloading: WEBPXTICK_DT-20240405.zip
+2025-04-19 11:13:57,955 [INFO] Saved to data/archive\WEBPXTICK_DT-20240405.zip
+2025-04-19 11:13:57,964 [INFO] Downloading: TC_20240405.txt
+2025-04-19 11:13:58,169 [INFO] Saved to data/archive\TC_20240405.txt
+2025-04-19 11:13:58,169 [INFO] Downloading: TickData_structure.dat
+2025-04-19 11:13:58,369 [INFO] Saved to data/archive\TickData_structure.dat
+2025-04-19 11:13:58,371 [INFO] Downloading: TC_structure.dat
+2025-04-19 11:13:58,534 [INFO] Saved to data/archive\TC_structure.dat
